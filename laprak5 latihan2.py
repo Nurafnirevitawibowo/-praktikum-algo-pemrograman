@@ -38,6 +38,6 @@ while n != '':
 if a == 1:
         print (" Gratisss ")
 else :
-        u =float(input(' Masukan Uang Anda ='))
-        kembalian = u-total
+        b =float(input(' Masukan Uang Anda ='))
+        kembalian = b-total
         print (" Kembaliannya adalah :", kembalian)
